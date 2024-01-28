@@ -15,8 +15,7 @@
 
 - 📫 How to reach me **abhishek.patel0919@gmail.com**
 
-- 📝 Link to my Resume is [https://bit.ly/Abhishek_Patel_Resume](https://bit.ly/Abhishek_Patel_Resume)
-
+- 📝 Link to my Resume is [https://bit.ly/Abhishek_Patel](https://bit.ly/Abhishek_Patel)
 - 📄 Know about my experiences [https://www.linkedin.com/in/abhipatel19/](https://www.linkedin.com/in/abhipatel19/)
 
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/abhipatel](https://www.novypro.com/profile_projects/abhipatel)

@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhipatel09&label=Profile%20views&color=0e75b6&style=flat" alt="abhipatel09" /> </p>
 <p align="left"> <a href="https://twitter.com/abhipatel_19" target="blank"><img src="https://img.shields.io/twitter/follow/abhipatel_19?logo=twitter&style=for-the-badge" alt="abhipatel_19" /></a> </p>
 
-- 🔭 I’m currently working on **Sales/Promotion Project**
+- 🔭 I’m currently working on **Titanic EDA Project**
 
 - 🌱 I’m currently learning **Python libraries & Django Framework**
 
